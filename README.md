@@ -45,6 +45,6 @@ Copy webcam_blind_voice.py python file and save under ODRVA\models\research\obje
 
 Thank you !
 
-#### Created on Monday, December 15 2025
+
 #### [author]: Roshana Atapattu 
 #### [e-mail]: (roshana96.atapattu@gmail.com)
